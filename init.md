@@ -7,3 +7,4 @@
 * git branch: 显示分支
 * git branch -M main: 将分支改为main
 * git push -u origin main: 推送到github
+* git push --rebase origin main: 取消本地仓库中刚刚的commit，并将这些新提交应用到你的本地仓库的顶部
